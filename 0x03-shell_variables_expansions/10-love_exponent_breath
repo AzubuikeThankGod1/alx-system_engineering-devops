@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s\n" "$(($BREATH**$LOVE))"i
+echo $(($BREATH**$LOVE))
